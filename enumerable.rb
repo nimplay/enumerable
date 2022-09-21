@@ -21,4 +21,3 @@ module MyEnumerable
     filter_value
   end
 end
-
